@@ -12,23 +12,6 @@ I'm a passionate learner who's always wiling to learn and work across technologi
 * ML, DL
 * HTML, CSS, JS
 
-# Connect with me 📞
-
-<a href="https://www.qries.com/](https://www.linkedin.com/in/abdulhamid-m-mousa-833a49204/">
-         <img alt="Linkedin" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png"
-         width="26px">
-</a>
-
-<a href="https://www.qries.com/](https://www.linkedin.com/in/abdulhamid-m-mousa-833a49204/">
-         <img alt="Qries" src="https://cdn.icon-icons.com/icons2/844/PNG/512/Wechat_icon-icons.com_67094.png"
-         width="26px">
-</a>
-
-<a href="https://www.qries.com/](https://www.linkedin.com/in/abdulhamid-m-mousa-833a49204/">
-         <img alt="Qries" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/2048px-Facebook_icon_2013.svg.png"
-         width="26px">
-</a>
-
 # Languages and Tools 💻
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
