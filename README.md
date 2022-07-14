@@ -8,7 +8,7 @@ I'm a passionate learner who's always wiling to learn and work across technologi
 
 # Skills and Experience ✨
 
-* Python, C++, Java
+* Python, C++
 * ML, DL
 * HTML, CSS, JS
 
