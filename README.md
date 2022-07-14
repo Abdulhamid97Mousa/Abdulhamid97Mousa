@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/80536675/179016569-9eef4b28-73e7-4280-8f00-05bcc260e150.png)
-
+<img align="center" width="1000" src="https://user-images.githubusercontent.com/80536675/179016569-9eef4b28-73e7-4280-8f00-05bcc260e150.png"/>
 
 # About me 😎
 Hi, I'm Abdulhamid. Mousa, a passionate self-taught (Networking and IT, ML/DL) Engineer from Egypt. I've got a degree in Mechanical Engineering from Beihang University 🎓, and currently pursuing a Masters's at BIT.Uni majoring in Mechanical Engineering. 
