@@ -18,4 +18,7 @@ I'm a passionate learner who's always wiling to learn and work across technologi
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" style="padding-right:10px;" />
 
+https://github.com/Abdulhamid97Mousa/Hidden_Repo_For_Publication/blob/main/WeChat%20Image_20220729023208.jpg?raw=true
+<img align="left" alt="C++" width="26px" src="https://github.com/Abdulhamid97Mousa/Hidden_Repo_For_Publication/blob/main/WeChat%20Image_20220729023208.jpg?raw=true.png" style="padding-right:10px;" />
