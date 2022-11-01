@@ -6,13 +6,6 @@
 - 💡 I'm a passionate learner who's always wiling to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that i also love to guide and mentor newbies👨🏽‍💻 and join open source project 💻. I'm currently researching Bearing Fault diagnosis and learning web development. and working on my Graduation project 🤓. 
 
 
-# Skills and Experience ✨
-* Python, C++
-* ML, DL
-* HTML, CSS, JS
-
-
-
 # Languages and Tools 💻  
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
