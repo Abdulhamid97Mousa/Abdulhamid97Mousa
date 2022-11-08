@@ -3,7 +3,9 @@
 
 - 🎓 I've got a degree in Mechanical Engineering from Beihang University, and currently pursuing my Masters's degree at BIT.Uni majoring in Mechanical Engineering. 
 
-- 💡 I'm a passionate learner who's always wiling to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that i also love to guide and mentor newbies👨🏽‍💻 and join open source project 💻. I'm currently researching Bearing Fault diagnosis and learning web development. and working on my Graduation project 🤓. 
+- 💡 I'm a passionate learner who's always wiling to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that i also spend my time guide and mentor newbies👨🏽‍💻 and wants to join open source project 💻.
+-  Currently researching Bearing Fault diagnosis, [Bearing Fault Diagnosis Method Based on Spectrum Map Information Fusion and CNNs](https://github.com/Abdulhamid97Mousa/Bearing-Fault-Diagnosis-Method-Based-on-Spectrum-Map-Information-Fusion-and-CNNs)📝
+-  Leanring Automation and web development. 💻
 
 
 # Languages and Tools 💻  
