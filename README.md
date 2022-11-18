@@ -15,6 +15,6 @@
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:10px;" />
 <img align="left" alt="Ansible" width="26px" src="![image](https://user-images.githubusercontent.com/80536675/202592930-20b530ae-6901-4301-ac04-100231dc866b.png)
 " style="padding-right:10px;" />
-<img align="left" alt="Docker" width="26px" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/Abdulhamid97Mousa/Abdulhamid97Mousa/blob/main/imgs/Moby-logo-sm.jpg?raw=true" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <br>
