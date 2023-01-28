@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Abdulhamid M. Mousa](https://www.linkedin.com/in/abdulhamid-m-mousa-833a49204/)
-> (Mechanical/DevOps) Engineer, ML/DL Researcher, and Content Creator
+> DevOps Engineer, ML/DL Researcher, and Content Creator
 
 - 🎓 I've got a degree in Mechanical Engineering from Beihang University, and currently pursuing my Masters's degree in Mechanical Engineering at Beijing Institute of Technology.
 
