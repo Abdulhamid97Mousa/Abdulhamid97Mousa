@@ -1,12 +1,9 @@
-# This is a basic workflow to help you get started with Actions
+name: Update badges
 
-name: CI
-
-# Controls when the workflow will run
 on:
   schedule:
-    # Runs at 2am UTC
-    - cron: "1 * * * *"
+    # Runs at 0am UTC every day
+    - cron: "0 0 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -14,5 +11,3 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: Abdulhamid97Mousa/badge-readme@main
-        with:       
-          CREDLY_USER: abdulhamid-mohammed-mousa-mousa # optional, but default will use the same from github
