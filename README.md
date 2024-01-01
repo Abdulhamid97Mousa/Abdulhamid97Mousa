@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm [Abdulhamid M. Mousa](https://www.linkedin.com/in/abdulhamid-m-mousa-833a49204/)
 > DevOps Engineer, ML/DL Researcher, and Content Creator
 
-- 💡 I'm a passionate learner who's always wiling to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-world problems✨. Apart from that i also spend my time guide and mentor newbies👨🏽‍💻 and wants to join open source project 💻
+- 💡 I'm a passionate learner who's always wiling to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-world problems✨. Apart from that I also spend my time guiding and mentor newbies👨🏽‍💻 and wants to join open source project 💻
 
 # Languages and Tools 💻  
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
